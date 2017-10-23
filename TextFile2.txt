@@ -1,2 +1,3 @@
 Another file
+insert a line --Ben
 Who can see whats happing
