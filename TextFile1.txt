@@ -1,4 +1,8 @@
 Hello World
 This is the second line in the file.
 Hi my name is Anne
+<<<<<<< HEAD
 I have to add some more
+=======
+And my name is Ben
+>>>>>>> 8e1fbf6fe7ddcb975acdebf0c7ee4a65c7fff75b
