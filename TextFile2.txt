@@ -1,5 +1,6 @@
 Another file
+insert a line --Ben
 Who can see whats happing
 insert a line here --Anne
-insert a line --Ben
 insert a second line here --Anne
+
