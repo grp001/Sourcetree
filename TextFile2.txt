@@ -2,3 +2,4 @@ Another file
 Who can see whats happing
 insert a line here --Anne
 insert a line --Ben
+insert a second line here --Anne
